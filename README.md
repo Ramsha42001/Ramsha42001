@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Header with animated text -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=435&lines=Hi+there%2C+I'm+Ramsha+Iqbal+%F0%9F%91%8B;Full+Stack+Developer;Generative+AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=435&lines=I'm+Ramsha+Iqbal+%F0%9F%91%8B;Full+Stack+Developer;Generative+AI+Enthusiast" alt="Typing SVG" />
   
   <!-- Fancy badges for social links -->
   <div>
