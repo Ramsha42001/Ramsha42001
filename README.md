@@ -1,26 +1,95 @@
+<div align="center">
+  <!-- Header with animated text -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=435&lines=Hi+there%2C+I'm+Ramsha+Iqbal+%F0%9F%91%8B;Full+Stack+Developer;Generative+AI+Enthusiast" alt="Typing SVG" />
+  
+  <!-- Profile banner/hero image -->
+  <img src="https://cdn.dribbble.com/users/1920348/screenshots/4332641/shot09.gif" width="400px" alt="coding animation">
+  
+  <!-- Fancy badges for social links -->
+  <div>
+    <a href="https://www.linkedin.com/in/ramsha-iqbal-332620211/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&hover=darker" alt="LinkedIn"/>
+    </a>
+    <a href="https://instagram.com/_ramsha_iqbal_">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    </a>
+    <a href="https://dribbble.com/ramsha%20iqbal">
+      <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"/>
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=ramsha42001&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
+  </div>
 
-<h1 align="center">Hi 👋, I'm Ramsha Iqbal</h1>
-<h3 align="center">A passionate Full stack developer from India</h3>
+  <!-- Wave separator -->
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</div>
 
-<img width="400px" src="https://cdn.dribbble.com/users/1920348/screenshots/4332641/shot09.gif" >
+### 🚀 About Me
+🎯 Full Stack Developer with expertise in Modern Web Technologies
+🤖 Passionate about Generative AI and Machine Learning
+💻 Building scalable applications with MERN Stack
+🔮 Exploring the intersection of AI and Web Development
+🌱 Currently diving deep into Large Language Models and AI Applications
+📚 Continuous learner & technology enthusiast
+🎨 Passionate about creating beautiful user experiences
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramsha42001&label=Profile%20views&color=0e75b6&style=flat" alt="ramsha42001" /> </p>
+### 💻 Tech Universe
 
-- 💬 Ask me about **react**
+<div align="center">
+  
+  <!-- Full Stack Development -->
+  <h4>🎨 Full Stack Development</h4>
+  
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  
+  <!-- AI & ML -->
+  <h4>🤖 AI & Machine Learning</h4>
+  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+  ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+  
+  <!-- Tools & Technologies -->
+  <h4>🛠 Tools & Technologies</h4>
+  
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ramsha-iqbal-332620211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ramsha-iqbal-332620211/" height="30" width="40" /></a>
-<a href="https://instagram.com/_ramsha_iqbal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ramsha_iqbal_" height="30" width="40" /></a>
-<a href="https://dribbble.com/ramsha iqbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="ramsha iqbal" height="30" width="40" /></a>
-</p>
+### 📊 GitHub Analytics
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+<div align="center">
+  <!-- Contribution graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramsha42001&theme=react-dark&hide_border=true" width="100%" alt="Contribution Graph">
+  
+  <p align="center">
+    <!-- Stats cards with animations -->
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ramsha42001&show_icons=true&theme=tokyonight&hide_border=true&animate=true" />
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ramsha42001&theme=tokyonight&hide_border=true" />
+  </p>
+  
+  <!-- Language stats -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramsha42001&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Language Stats">
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramsha42001&show_icons=true&locale=en&layout=compact" alt="ramsha42001" /></p>
+<!-- Trophy section -->
+<div align="center">
+  <h3>🏆 GitHub Trophies</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=ramsha42001&theme=discord&no-frame=true&column=7" alt="Trophies" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramsha42001&show_icons=true&locale=en" alt="ramsha42001" /></p>
+<!-- Snake animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramsha42001&" alt="ramsha42001" /></p>
+<!-- Footer -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Footer" />
+</div>
 
