@@ -11,7 +11,7 @@
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
     </a>
     <a href="https://dribbble.com/ramsha%20iqbal">
-      <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"/>
+      <img src="https://img.shields.io/badge/Peerlist-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"/>
     </a>
     <img src="https://komarev.com/ghpvc/?username=ramsha42001&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
   </div>
