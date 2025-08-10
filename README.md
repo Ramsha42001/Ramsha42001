@@ -21,13 +21,13 @@
 </div>
 
 ### 🚀 About Me
-🎯 Full Stack Developer with expertise in Modern Web Technologies
-🤖 Passionate about Generative AI and Machine Learning
+🎯 Full Stack Developer with expertise in Modern Web Technologies including next.js,React,Typescript,TailwindCSS
+🤖 Passionate about Generative AI,Data Analysis and full stack web development
 💻 Building scalable applications with MERN Stack
 🔮 Exploring the intersection of AI and Web Development
 🌱 Currently diving deep into Large Language Models and AI Applications
 📚 Continuous learner & technology enthusiast
-🎨 Passionate about creating beautiful user experiences
+🎨 Passionate about creating beautiful user experiences using Next.js and React
 
 ### 💻 Tech Universe
 
@@ -42,12 +42,9 @@
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
   
   <!-- AI & ML -->
-  <h4>🤖 AI & Machine Learning</h4>
+  <h4>🤖 AI</h4>
   
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-  ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
   
   <!-- Tools & Technologies -->
   <h4>🛠 Tools & Technologies</h4>
@@ -58,27 +55,8 @@
   ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 </div>
 
-### 📊 GitHub Analytics
 
-<div align="center">
-  <!-- Contribution graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramsha42001&theme=react-dark&hide_border=true" width="100%" alt="Contribution Graph">
-  
-  <p align="center">
-    <!-- Stats cards with animations -->
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ramsha42001&show_icons=true&theme=tokyonight&hide_border=true&animate=true" />
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ramsha42001&theme=tokyonight&hide_border=true" />
-  </p>
-  
-  <!-- Language stats -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramsha42001&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Language Stats">
-</div>
 
-<!-- Trophy section -->
-<div align="center">
-  <h3>🏆 GitHub Trophies</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=ramsha42001&theme=discord&no-frame=true&column=7" alt="Trophies" />
-</div>
 
 <!-- Snake animation -->
 <div align="center">
