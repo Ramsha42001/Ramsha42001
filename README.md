@@ -118,23 +118,15 @@ React 19 · three.js · react-three-fiber · framer-motion · sound synthesized 
 | [**ATS resume scorer**](https://github.com/Ramsha42001/ats-frontend) | Scores resumes against job descriptions with Generative AI | Python Flask · React · MUI |
 | [**Halwaai**](https://github.com/Ramsha42001/halwaai-ui) | Custom food-delivery platform UI | Next.js · TypeScript · Radix UI |
 
-## 📊 GitHub stats
+## 📊 Languages
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Ramsha42001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=c79a3a&icon_color=c79a3a&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ramsha42001&show_icons=true&hide_border=true&title_color=8a6a1f&icon_color=8a6a1f&count_private=true" alt="GitHub stats"/>
-</picture>
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramsha42001&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=c79a3a&langs_count=8"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramsha42001&layout=compact&hide_border=true&title_color=8a6a1f&langs_count=8" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramsha42001&layout=compact&hide_border=true&title_color=8a6a1f&langs_count=8" alt="Top languages"/>
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Ramsha42001&theme=tokyonight&hide_border=true&background=1A1B27&ring=C79A3A&fire=C79A3A&currStreakLabel=C79A3A"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ramsha42001&hide_border=true&ring=8A6A1F&fire=8A6A1F&currStreakLabel=8A6A1F" alt="Contribution streak"/>
-</picture>
 
 </div>
 
